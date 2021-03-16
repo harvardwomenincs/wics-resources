@@ -1,0 +1,19 @@
+# Mac files
+.DS_Store
+
+# Dependency directories
+./node_modules/
+
+node_modules
+
+# lerna files
+/lerna-debug.log
+
+# build files
+public/
+.estlintcache
+# Ignore hidden files as default
+.*
+
+# Keep .gitignore
+!.gitignore
