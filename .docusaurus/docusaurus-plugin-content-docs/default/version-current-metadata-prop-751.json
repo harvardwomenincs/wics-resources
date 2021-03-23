@@ -27,11 +27,6 @@
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/create-a-blog-post"
-          },
-          {
-            "type": "link",
             "label": "Markdown Features",
             "href": "/docs/markdown-features"
           },
@@ -45,7 +40,6 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/create-a-blog-post": "docs",
     "/docs/create-a-document": "docs",
     "/docs/create-a-page": "docs",
     "/docs/": "docs",

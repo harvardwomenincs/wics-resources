@@ -8,12 +8,11 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Written by Students',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our guides are ever-evolving and made by generations of past Harvard CS students. Make a PR to contribute yourself, and our team will review and hopefully approve it!
       </>
     ),
   },
@@ -22,18 +21,16 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We've distilled the most critical advice, insider knowledge, and resources that helped previous students succeed.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Made to Empower',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We're here to help you in your Harvard CS journey. Make a PR if there's something new you'd like to see.
       </>
     ),
   },

@@ -11,11 +11,6 @@
           "mainDocId": "getting-started",
           "docs": [
             {
-              "id": "create-a-blog-post",
-              "path": "/docs/create-a-blog-post",
-              "sidebar": "docs"
-            },
-            {
               "id": "create-a-document",
               "path": "/docs/create-a-document",
               "sidebar": "docs"

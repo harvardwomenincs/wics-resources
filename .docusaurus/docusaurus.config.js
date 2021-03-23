@@ -1,6 +1,6 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
+  "title": "WiCS Resources",
+  "tagline": "Guides to tech for college students",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -10,7 +10,7 @@ export default {
   "projectName": "docusaurus",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "WiCS Resources",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -23,12 +23,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/harvardwomenincs/wics-resources",
           "label": "GitHub",
           "position": "right"
         }
@@ -48,37 +43,16 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Contribute",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "blog"
-            },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/harvardwomenincs/wics-resources"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Harvard Undergraduate Women in Computer Science, Inc. Built with Docusaurus."
     },
     "colorMode": {
       "defaultMode": "light",
